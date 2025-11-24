@@ -16,13 +16,15 @@ Apps live in apps.json under the "apps" array.
 
 Minimal example:
 
-```{
+```json
+{
   "name": "My Cool App",
   "subdomain": "coolapp",
   "tags": ["utility", "fun"],
   "description": "One sentence saying what it does.",
   "badge": ""
-}```
+}
+```
 
 ## Field notes
 
