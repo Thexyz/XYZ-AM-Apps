@@ -1,0 +1,206 @@
+{
+  "apps": [
+    {
+      "name": "XYZ AM Chrome Extension",
+      "subdomain": "chrome",
+      "tags": ["extension", "chrome", "official", "js"],
+      "description": "Official XYZ AM extension for Chrome.",
+      "badge": "official"
+    },
+    {
+      "name": "XYZ AM Firefox Extension",
+      "subdomain": "firefox",
+      "tags": ["extension", "firefox", "official", "js"],
+      "description": "Official XYZ AM extension for Firefox.",
+      "badge": "official"
+    },
+    {
+  "name": "Clipboard",
+  "slug": "clipboard",
+  "subdomain": "clipboard",
+  "url": "https://clipboard.xyz.am/",
+  "tags": ["utility", "clipboard", "text", "sharing"],
+  "description": "Copy, paste, and share text or snippets seamlessly between devices.",
+  "badge": ""
+},
+    {
+      "name": "Annex Tree Map",
+      "subdomain": "annextrees",
+      "tags": ["fun", "text", "map"],
+      "description": "A map of local trees.",
+      "badge": ""
+    },
+        {
+      "name": "The Overthinking Engine",
+      "subdomain": "overthinking",
+      "tags": ["fun", "text", "generator"],
+      "description": "A playful thought-experiment generator.",
+      "badge": ""
+    },
+    {
+      "name": "Police Radio Codes",
+      "subdomain": "policecodes",
+      "tags": ["database", "reference", "police", "radio"],
+      "description": "Fast, searchable database of police radio codes.",
+      "badge": ""
+    },
+    {
+      "name": "Email Address Tester",
+      "subdomain": "emailtest",
+      "tags": ["utility", "email", "validation"],
+      "description": "Check if an email address is active—no message sent.",
+      "badge": ""
+    },
+    {
+      "name": "Color Catch",
+      "subdomain": "colorcatch",
+      "tags": ["game", "html5", "casual"],
+      "description": "Match the colors and beat your high score!",
+      "badge": ""
+    },
+    {
+      "name": "Arcade Engine",
+      "subdomain": "arcadeengine",
+      "tags": ["games", "catalog", "html5"],
+      "description": "Discover and play amazing HTML5 games.",
+      "badge": ""
+    },
+    {
+      "name": "Compliment Machine",
+      "subdomain": "complimentmachine",
+      "tags": ["fun", "text", "generator"],
+      "description": "The compliment vending machine—get a smile on demand.",
+      "badge": ""
+    },
+    {
+      "name": "Internet Break Room",
+      "subdomain": "breakroom",
+      "tags": ["fun", "random", "relax"],
+      "description": "Quick mental breaks for busy brains.",
+      "badge": ""
+    },
+    {
+      "name": "Breathe",
+      "subdomain": "breathe",
+      "tags": ["wellness", "breathing", "timer"],
+      "description": "Guided breathing exercises to reset your focus.",
+      "badge": ""
+    },
+    {
+    "name": "My TTC",
+    "slug": "myttc",
+    "subdomain": "myttc",
+    "url": "https://myttc.xyz.am/",
+    "tags": ["transit", "ttc", "toronto", "maps", "realtime"],
+    "description": "Live TTC arrivals, routes, and service alerts (unofficial).",
+    "badge": ""
+  },
+  {
+    "name": "Logit",
+    "slug": "logit",
+    "subdomain": "logit",
+    "url": "https://logit.xyz.am/",
+    "tags": ["utility", "logs", "webhooks", "developer"],
+    "description": "Simple request logger & webhook inspector for quick debugging.",
+    "badge": ""
+  },
+    {
+      "name": "Bubble Wrap",
+      "subdomain": "bubblewrap",
+      "tags": ["fun", "toy", "clicker"],
+      "description": "Pop digital bubble wrap. Endlessly satisfying.",
+      "badge": ""
+    },
+    {
+      "name": "Canvas Dreams",
+      "subdomain": "canvasdreams",
+      "tags": ["art", "canvas", "paint"],
+      "description": "Paint with your cursor—abstract art in motion.",
+      "badge": ""
+    },
+    {
+      "name": "MS Paint (Web)",
+      "subdomain": "mspaint",
+      "tags": ["art", "tool", "paint"],
+      "description": "A familiar painting experience in your browser.",
+      "badge": ""
+    },
+    {
+      "name": "World News",
+      "subdomain": "worldnews",
+      "tags": ["news", "rss", "aggregator"],
+      "description": "Latest news stories from around the globe.",
+      "badge": ""
+    },
+    {
+      "name": "Nostalgia Machine",
+      "subdomain": "nostalgiamachine",
+      "tags": ["fun", "music", "retro"],
+      "description": "Time-travel through pop culture by year.",
+      "badge": ""
+    },
+    {
+      "name": "Jump Quest",
+      "subdomain": "jumpquest",
+      "tags": ["game", "platformer", "html5"],
+      "description": "Precision platforming—master the jumps.",
+      "badge": ""
+    },
+    {
+      "name": "Orbital Rush",
+      "subdomain": "orbitalrush",
+      "tags": ["game", "space", "arcade"],
+      "description": "Fast-paced space runner. Dodge, weave, survive.",
+      "badge": ""
+    },
+    {
+      "name": "MindMap",
+      "subdomain": "mindmap",
+      "tags": ["productivity", "visual", "notes", "diagram"],
+      "description": "Fast, minimalist mind-mapping in the browser—capture and connect ideas quickly.",
+      "badge": ""
+    },
+    {
+      "name": "Interactive Periodic Table",
+      "subdomain": "periodictable",
+      "tags": ["education", "science", "chemistry", "interactive"],
+      "description": "Explore elements with categories, properties, and quick filters—built for learners and tinkerers.",
+      "badge": ""
+    },
+    {
+      "name": "ASCII Tools",
+      "subdomain": "ascii",
+      "tags": ["text", "tool", "converter", "utility"],
+      "description": "Handy ASCII/Unicode utilities: convert, inspect, and clean text for the web or code.",
+      "badge": ""
+    },
+    {
+      "name": "Focus Timer",
+      "subdomain": "focustimer",
+      "tags": ["productivity", "timer", "pomodoro", "focus"],
+      "description": "Simple Pomodoro-style timer with sessions and breaks to keep you in flow.",
+      "badge": ""
+    },
+    {
+      "name": "Pixel Art",
+      "subdomain": "pixelart",
+      "tags": ["productivity", "art"],
+      "description": "Create a square pixel art piece.",
+      "badge": ""
+    },
+    {
+      "name": "Moving Boxes Calculator",
+      "subdomain": "movingboxes",
+      "tags": ["productivity", "utility"],
+      "description": "Calculate how many moving boxes are needed for a move.",
+      "badge": ""
+    },
+    {
+      "name": "Feed Embed",
+      "subdomain": "feedembed",
+      "tags": ["rss", "widget", "embed", "publisher", "tool"],
+      "description": "Turn any RSS/Atom feed into a clean, embeddable widget for your site.",
+      "badge": ""
+    }
+  ]
+}
