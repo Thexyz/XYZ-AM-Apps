@@ -195,6 +195,96 @@
       "description": "Calculate how many moving boxes are needed for a move.",
       "badge": ""
     },
+  {
+    "name": "Kaspa Fee Estimator",
+    "slug": "kaspa-fee-estimator",
+    "subdomain": "kaspa-fee-estimator",
+    "url": "https://kaspa-fee-estimator.xyz.am/",
+    "tags": ["crypto", "kaspa", "utility", "fees", "calculator"],
+    "description": "Estimate Kaspa transaction fees with quick, easy inputs.",
+    "badge": ""
+  },
+  {
+    "name": "Kaspa Alerts",
+    "slug": "kaspa-alerts",
+    "subdomain": "kaspa-alerts",
+    "url": "https://kaspa-alerts.xyz.am/",
+    "tags": ["crypto", "kaspa", "alerts", "monitoring", "utility"],
+    "description": "Get alert-style monitoring for Kaspa wallet activity and events.",
+    "badge": ""
+  },
+  {
+    "name": "GitHub Landing",
+    "slug": "github",
+    "subdomain": "github",
+    "url": "https://github.xyz.am/",
+    "tags": ["developer", "github", "tools", "official", "integration"],
+    "description": "Quick access hub for XYZ AM’s GitHub projects and community repos.",
+    "badge": ""
+  },
+  {
+    "name": "Kaspa KRC-20 Portfolio Watcher",
+    "slug": "kaspa-krc-20",
+    "subdomain": "kaspa-krc-20",
+    "url": "https://kaspa-krc-20.xyz.am/",
+    "tags": ["crypto", "kaspa", "krc-20", "portfolio", "tracker"],
+    "description": "Track KRC-20 tokens across one or more Kaspa addresses.",
+    "badge": ""
+  },
+  {
+    "name": "Kaspa Address Watcher",
+    "slug": "kaspa-address-watcher",
+    "subdomain": "kaspa-address-watcher",
+    "url": "https://kaspa-address-watcher.xyz.am/",
+    "tags": ["crypto", "kaspa", "addresses", "watcher", "tracker"],
+    "description": "Watch Kaspa addresses for balance changes and recent transactions.",
+    "badge": ""
+  },
+  {
+    "name": "Kaspa Multi-Wallet Watcher",
+    "slug": "kaspa-watcher",
+    "subdomain": "kaspa-watcher",
+    "url": "https://kaspa-watcher.xyz.am/",
+    "tags": ["crypto", "kaspa", "multi-address", "portfolio", "utility"],
+    "description": "Monitor multiple Kaspa wallets in one simple dashboard.",
+    "badge": ""
+  },
+  {
+    "name": "Kaspa Pulse",
+    "slug": "kaspa-pulse",
+    "subdomain": "kaspa-pulse",
+    "url": "https://kaspa-pulse.xyz.am/",
+    "tags": ["crypto", "kaspa", "stats", "network", "dashboard"],
+    "description": "Live Kaspa network stats and health at a glance.",
+    "badge": ""
+  },
+  {
+    "name": "Tamagotchi Penguins",
+    "slug": "tamagotchi",
+    "subdomain": "tamagotchi",
+    "url": "https://tamagotchi.xyz.am/",
+    "tags": ["game", "html5", "casual", "pets", "fun"],
+    "description": "A tiny Tamagotchi-style penguin pet game in your browser.",
+    "badge": ""
+  },
+  {
+    "name": "Coordinates Converter",
+    "slug": "coordinates",
+    "subdomain": "coordinates",
+    "url": "https://coordinates.xyz.am/",
+    "tags": ["utility", "geo", "coordinates", "converter", "maps"],
+    "description": "Convert and inspect geographic coordinates quickly and cleanly.",
+    "badge": ""
+  },
+  {
+    "name": "Quick Editor",
+    "slug": "editor",
+    "subdomain": "editor",
+    "url": "https://editor.xyz.am/",
+    "tags": ["utility", "text", "editor", "developer", "productivity"],
+    "description": "A fast in-browser editor for notes, JSON, and quick text work.",
+    "badge": ""
+  },
     {
       "name": "Feed Embed",
       "subdomain": "feedembed",
